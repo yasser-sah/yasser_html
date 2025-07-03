@@ -1,0 +1,56 @@
+.body{
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+    padding: 0px;
+    color: black;
+    text-align: center;
+   
+}
+.nav{
+    background-color: rgb(19, 207, 207);
+    margin: 10px;
+    padding:10px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    font-weight:bold ;
+
+    
+}
+
+a{
+    color: white;
+    margin:5px;
+    padding: 5px;
+}
+
+.header{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    text-align: center;
+
+
+
+.header img{
+    width: 100px;
+    height: 100px;
+
+}
+
+   
+}
+.footer{
+    background-color: rgb(202, 191, 202);
+    color: black;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    margin: 0px;
+    padding: 10px;
+}
